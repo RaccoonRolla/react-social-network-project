@@ -1,0 +1,10 @@
+.friendAvatar {
+    height: 100px;
+    width: 100px;
+    border-radius: 30px;
+    background-color: darkgray;
+}
+
+.friendIcon {
+    padding: 10px;
+}
